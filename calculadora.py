@@ -1,6 +1,5 @@
 import os
 import time
-laco = 1
 
 print('\t bem vindo a calculadora do lucasrq')
 
